@@ -13,9 +13,7 @@ DeensCarpentry is a woodworking business specializing in custom furniture and hi
 ### Sample Work  
 ![Sample Work](IMG-20250322-WA0000.jpg)  
 
-### New Sample Work  
-![New Sample Work](WhatsApp%20Image%202025-03-22%20at%2010.33.54_f93a0968.jpg)  
-
+### New Sample Work 
 ## How to Order  
 1. Browse our portfolio.  
 2. Contact us for custom requests.  
